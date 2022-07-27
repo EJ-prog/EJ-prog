@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Elisabeth Jewett
-- 👀 I’m interested in apps, games, websites, and databases.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello! I’m Elisabeth Jewett.
+- 👀 I’m interested in software development/engineering, apps, games, websites, and databases.
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on projects that make a difference and help people!
 - 📫 How to reach me: eilsabethjewett@gmail.com.
 
 <!---
